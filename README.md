@@ -9,13 +9,10 @@ Employee attrition is a critical challenge for organizations. This project analy
 The interactive Power BI dashboard helps HR teams and decision-makers quickly understand attrition trends across departments, job roles, age groups, salary slabs, and experience levels.
 
 🎯 Objectives
-Analyze employee attrition patterns
-
-Identify high-risk departments and job roles
-
-Understand the impact of age, salary, and experience on attrition
-
-Enable data-driven HR decisions
+- Analyze employee attrition patterns
+- Identify high-risk departments and job roles
+- Understand the impact of age, salary, and experience on attrition
+- Enable data-driven HR decisions
 
 🛠️ Tools & Technologies
 
