@@ -10,8 +10,11 @@ The interactive Power BI dashboard helps HR teams and decision-makers quickly un
 
 🎯 Objectives
 Analyze employee attrition patterns
+
 Identify high-risk departments and job roles
+
 Understand the impact of age, salary, and experience on attrition
+
 Enable data-driven HR decisions
 
 🛠️ Tools & Technologies
