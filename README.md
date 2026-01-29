@@ -17,11 +17,11 @@ The interactive Power BI dashboard helps HR teams and decision-makers quickly un
 
 🛠️ Tools & Technologies
 
-Power BI – Dashboard & visualization
-Power Query – Data cleaning & transformation
-DAX – Measures and KPIs
-Excel / CSV – Data source
-Data Modeling – Relationships & schema design
+-Power BI – Dashboard & visualization
+-Power Query – Data cleaning & transformation
+-DAX – Measures and KPIs
+-Excel / CSV – Data source
+-Data Modeling – Relationships & schema design
 
 📊 Key Metrics (KPIs)
 
